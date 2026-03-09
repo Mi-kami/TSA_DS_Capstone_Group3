@@ -6,17 +6,21 @@ A capstone project marking the completion of the TS Academy Data Science Program
 |-------|--------|
 | Research and Problem Definition | ✅ Complete |
 | Data Sourcing and Engineering | ✅ Complete |
-| Exploratory Data Analysis | 🔄 In Progress |
+| Exploratory Data Analysis | ✅ Complete |
 | Feature Engineering | ✅ Complete |
-| Modelling | ⏳ Pending |
+| Modelling | ✅ Complete |
 | Evaluation | ⏳ Pending |
-| Documentation | 🔄 In Progress |
+| Documentation | ⏳ Pending |
 | Presentation | ⏳ Pending |
 
 ## Completed Notebooks
 - 01_Project_Overview.ipynb
 - 02_Data_collection.ipynb  
 - 03_Data_Merging_and_Feature_Engineering.ipynb
+- 04_Exploratory Data Analysis.ipynb
+- 05_SARIMA_SARIMAX.ipynb
+- 06_XGBOOST_MODEL.ipynb
+- 07_Facebook_Prophet_Model
 
 ## Master Dataset
 The final featured master dataset is available at:
