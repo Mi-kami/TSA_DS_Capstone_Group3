@@ -52,7 +52,7 @@ elif page == "Forecast Explorer":
     st.warning("No results found for this combination.")
   else:
     st.success(f"Best model for {commodity} in {state}: {filtered_best['best_model'].values[0]}")
-    best_model_name = filtered_best['best_model'].valeus[0]
+    best_model_name = filtered_best['best_model'].values[0]
 
     filtered_metrics = model_comparison[
       (model_comparison['state'] == state) & 
