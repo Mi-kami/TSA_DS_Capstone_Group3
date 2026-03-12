@@ -32,7 +32,7 @@ if page == "Model Comparison":
   st.subheader("All Model Results")
   st.dataframe(model_comparison)
   st.subheader("Best Model Per Combination")
-  st.write("The table below shows the wnning forecasting model for each state and commodity combination, selected based on lowest average MAPE across all three forecast horizons.")
+  st.write("The table below shows the winning forecasting model for each state and commodity combination, selected based on lowest average MAPE across all three forecast horizons.")
   st.dataframe(best_models)
 
 #page 2
