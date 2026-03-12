@@ -65,11 +65,11 @@ elif page == "Forecast Explorer":
     filtered_metrics = all_results[
       (all_results['state'] == state) & 
       (all_results['commodity'] == commodity) &
-      (all_results['best_model'] ==  best_model_name)
+      (all_results['model'] ==  best_model_name)
     ]
   
     st.subheader("Model Performance Metrics")
-    st.dataframe(filtered_metrics[['best_model', 'MAPE', 'MAE', 'RMSE', 'H1_MAPE', 'H2_MAPE', 'H3_MAPE']])
+    st.dataframe(filtered_metrics[['model', 'MAPE', 'MAE', 'RMSE', 'H1_MAPE', 'H2_MAPE', 'H3_MAPE']])
 
     if best_model_name == "Prophet":
       price_data = prophet_horizons[
