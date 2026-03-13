@@ -237,7 +237,7 @@ seaborn
 | Dr. Ajibola | Documentation & Report | [@DrAjibola](https://github.com/DrAjibola) |
 | Noble | Data Sourcing, Deployment | [@afeezshittu28-debug](https://github.com/afeezshittu28-debug) |
 | Mr. Jonathan | Documentation & Report | [@Shoyemi-Jonathan-Showunmi](https://github.com/Shoyemi-Jonathan-Showunmi) |
-| Nameless | Documentation & Report | — |
+| Nameless | Documentation & Report | [~ṅѧṃєʟєśś™](https://github.com/neimlessss) |
 
 ---
 
