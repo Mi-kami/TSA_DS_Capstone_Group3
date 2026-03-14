@@ -20,9 +20,9 @@ Each notebook is structured according to a specific stage of the data science wo
 
 - 08_Model comparison and evaluation
 
-- Merged notebooks #merged version from NB01 - NB08
+- Merged notebooks        <--merged version from NB01 - NB08
 
-- 09_Documentation and Report ## <-- For non-technical personnels
+- 09_Documentation and Report      <-- For non-technical personnels
 
 Notebooks are sequentially numbered to maintain logical progression and ensure clarity, reproducibility, and collaboration across the team.
 
