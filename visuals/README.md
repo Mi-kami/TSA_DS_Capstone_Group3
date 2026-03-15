@@ -1,1 +1,0 @@
-This folder contains all visual outputs generated throughout the project, including plots, graphs, and charts produced during exploratory data analysis, model evaluation, and final insights. All visualisations are saved here as image files for easy reference and inclusion in project documentation and reports.
